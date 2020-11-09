@@ -19,4 +19,4 @@ Zhang, T., Ramakrishnan, R., & Livny, M. (1996). BIRCH: an efficient data cluste
 
 # Cluster sequences for BIRCH threshold of 0.2 enlarged:
 
-<img width="300" alt="java 8 and prio java 8  array review example" src="https://github.com/johannesuhl/sequential_clustering_viz/blob/main/cluster_sequence_map_birch_threshold_0.2.jpg">
+<img width="800" alt="java 8 and prio java 8  array review example" src="https://github.com/johannesuhl/sequential_clustering_viz/blob/main/cluster_sequence_map_birch_threshold_0.2.jpg">
